@@ -38,11 +38,11 @@ setup(
     keywords='faker fixtures data test django',
     long_description=read_file('README.rst'),
     install_requires=[
-        'Django>=1.11.0',
+        'Django>=1.10',
         'Faker>=0.8.11',
     ],
     tests_require=[
-        'Django>=1.11.0',
+        'Django>=1.10',
         'Faker>=0.8.11',
         'coverage>=4.5.1',
     ],
