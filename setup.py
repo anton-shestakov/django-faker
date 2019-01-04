@@ -40,7 +40,6 @@ setup(
     install_requires=[
         'Django>=1.11.0',
         'Faker>=0.8.11',
-        'coverage>=4.5.1',
     ],
     tests_require=[
         'Django>=1.11.0',
